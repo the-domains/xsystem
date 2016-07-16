@@ -6,9 +6,9 @@ color:
   saturation: 0.9906281954608858
   rhythmicContrast: 0.8298584497533739
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
 name: xsystem
