@@ -1,0 +1,14 @@
+layout_spectrum: 0.2175731952302158
+typography_spectrum: 0.707339713582769
+color:
+  brandStrength: 0.33560457546263933
+  lightness: 0.09517554612830281
+  saturation: 0.9906281954608858
+  rhythmicContrast: 0.8298584497533739
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: xsystem
